@@ -1,0 +1,22 @@
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe.config
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\bin\Debug\Blood Bank.pdb
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\bin\Debug\Blood Bank.xml
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.vbproj.AssemblyReference.cache
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.vbproj.SuggestedBindingRedirects.cache
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form1.resources
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Resources.resources
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.vbproj.GenerateResource.cache
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.vbproj.CoreCompileInputs.cache
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.exe
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.xml
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.pdb
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form2.resources
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form3.resources
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form4.resources
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form5.resources
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form6.resources
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.BloodTransfer.resources
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form7.resources
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\bin\Debug\Guna.UI2.dll
+C:\Users\shrad\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.vbproj.CopyComplete
